@@ -18,7 +18,7 @@ Tools to build:
 * An alghoritm that shows similar players on a given player.
 * Good tool to find gems in different levels(Bronze, silver etc.)
 
-4) Player Cards:
+4)Player Cards:
 
 *Design a player card similar to FIFA. 
 
