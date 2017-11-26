@@ -1,3 +1,6 @@
-# pes-scouts
+# changed project.
 
-# this is a tool to track the pes scouts. store player & scouts..
+# scout status
+# squad builder
+# similar players
+# player cards
