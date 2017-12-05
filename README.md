@@ -1,3 +1,6 @@
+Frontend - Javascript
+Backend - Node.js
+
 # changed project.,,
 
 Tools to build:
