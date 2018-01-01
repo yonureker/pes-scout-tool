@@ -1,7 +1,7 @@
 Frontend - Javascript
 Backend - Node.js
 
-# changed project.,,
+# changed project.
 
 Tools to build:
 
@@ -25,5 +25,5 @@ Tools to build:
 
 * Design a player card similar to FIFA. 
 
-5)Extra features here.
+5)Extra features here..
 
