@@ -1,5 +1,6 @@
-Frontend - Javascript
-Backend - Node.js
+Frontend - Rails
+Backend - Ruby
+
 
 # changed project.
 
